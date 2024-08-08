@@ -1,0 +1,8 @@
+THNO/
+├── assets/
+│   └── Attack_1.png
+├── src/
+│   ├── character.h
+│   ├── character.c
+│   └── main.c
+├── Makefile
